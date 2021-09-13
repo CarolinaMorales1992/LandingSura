@@ -1,0 +1,104 @@
+
+
+.containerFlex{
+    display: flex;
+    width: auto;
+}
+
+.flexGrow1 {
+    flex-grow: 1;
+}
+
+.flexGrow2 {
+    flex-grow: 2;
+}
+
+.flexGrow3 {
+    flex-grow: 3;
+}
+
+.flexGrow4 {
+    flex-grow: 4;
+}
+
+.column-direction {
+    flex-direction: column;
+}
+
+.backgroundBlue {
+    background: #0033A0;
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    
+}
+
+.uppercaseLetter {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-transform: uppercase;
+    align-self: center;
+}
+
+.normalLetter {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    align-self: center;
+}
+
+.firstMenu {
+    margin-top: 50px;
+}
+
+.textbox { 
+    justify-content: center;
+
+}
+
+.text {
+    width: 300px;
+    height: 100px;
+}
+
+.row-direction {
+    flex-direction: row;
+}
+
+.car {
+    margin-top: 50px;
+}
+
+.check {
+    margin-top: 100%;
+}
+
+.title {
+    text-align: center;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.inputStyle {
+    width: 264px;
+    left: 443px;
+    top: 29.44%;
+    bottom: 67.75%;
+
+    background: #FFFFFF;
+    border: 1px solid #ECF0F1;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+
+.backColor {
+    background-color: #ECF0F1;
+    padding: 10px;
+}
+
+.letter {
+    font-family:'Barlow', sans-serif;
+}
